@@ -184,7 +184,7 @@
 <!--            <li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>-->
 <!--            <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>-->
 <!--          </ul>-->
-          <p>&copy; akaash. Design: <a href="#">Accelerated & hosted by 4EVERLAND</a>.</p>
+          <p>&copy; akaash. Design: <a href="https://www.4everland.org/">Accelerated & hosted by 4EVERLAND</a>.</p>
         </div>
       </footer>
 
