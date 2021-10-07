@@ -30,7 +30,7 @@
       </template>
     </div>
     <div class="inner">
-      <p data-v-75b449f8="">© akaash. Design: <a target="_blank" href="https://www.4everland.org/">Accelerated &amp; hosted by 4EVERLAND</a>.</p>
+      <p>Server support: <a target="_blank" href="https://www.4everland.org/">Accelerated &amp; hosted by 4EVERLAND</a>.</p>
     </div>
   </div>
 </template>
